@@ -1,6 +1,10 @@
 {
-  "version": "1.1.2",
-  "description": {
-    "uuid": "1gi1o23g23gbj3hu4g4yf3y4dfkfgllf34"
+  "format_version": 3,
+  "header": {
+    "name": "wall redstones",
+    "description": "description of the addon",
+    "uuid": "....",
+    "version": "1.0.0",
+    "min_engine_version": "1.26.10"
   }
 }
