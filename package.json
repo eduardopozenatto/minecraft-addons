@@ -1,0 +1,19 @@
+{
+  "name": "minecraft-addons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "local-deploy": "just-scripts local-deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.32.1",
+  "dependencies": {
+    "@minecraft/server": "^2.6.0",
+    "@minecraft/server-ui": "^2.0.0",
+    "typescript": "^6.0.2"
+  }
+}
