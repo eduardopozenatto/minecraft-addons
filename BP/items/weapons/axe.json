@@ -17,7 +17,14 @@
           "max": 100
         },
         "max_durability": 100
-      }
+      },
+      "minecraft:food": {
+        "can_always_eat": false,
+        "nutrition": 6,
+        "saturation_modifier": 1,
+        "using_converts_to": "bowl"
+      },
+      "minecraft:icon": "aleatorio:ectoplasm"
     }
   }
 }
