@@ -1,16 +1,17 @@
 {
-  "format_version": 1,
+  "format_version": 3,
   "header": {
-    "name": "wall redstones",
-    "description": "description",
-    "uuid": ".....",
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "053e5c74-000f-4a3e-ad0d-63200d4a283e",
     "version": "1.0.0",
-    "min_engine_version": "1.26.10"
+    "min_engine_version": "1.26.10",
+    "pack_scope": "world"
   },
   "modules": [
     {
       "type": "resources",
-      "uuid": ".....",
+      "uuid": "257a41ad-28b6-414c-a024-2d8cdea6a2dd",
       "version": "1.0.0"
     }
   ],
