@@ -1,4 +1,4 @@
-pack.name=Meu Addon
-pack.description=Meu Addon bonitto
+pack.name=Teste
+pack.description=Meu addon
 
-item.aleatorio:ectoplasm=Ectoplasm
+item.weapons:ectoplasm=Ectoplasm
